@@ -1,4 +1,4 @@
-# pomodoro
+# Pomodoro
 React Pomodoro timer FCC project
 
 The Pomodoro Technique is a late 1980's time management method developed by Francesco Cirillo. You can read more about this on its [dedicated Wikipedia page](https://en.wikipedia.org/wiki/Pomodoro_Technique).

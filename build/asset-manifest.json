@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/github.io/pomodoro/static/js/main.86a74660.chunk.js",
+    "main.js.map": "/github.io/pomodoro/static/js/main.86a74660.chunk.js.map",
+    "runtime-main.js": "/github.io/pomodoro/static/js/runtime-main.267acecd.js",
+    "runtime-main.js.map": "/github.io/pomodoro/static/js/runtime-main.267acecd.js.map",
+    "index.html": "/github.io/pomodoro/index.html",
+    "precache-manifest.4341c6b8bd60873cd241271f46ec4db0.js": "/github.io/pomodoro/precache-manifest.4341c6b8bd60873cd241271f46ec4db0.js",
+    "service-worker.js": "/github.io/pomodoro/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.267acecd.js",
+    "static/js/main.86a74660.chunk.js"
+  ]
+}
