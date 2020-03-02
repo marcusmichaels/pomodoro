@@ -3,3 +3,21 @@ body {
   margin:0;
   padding:0;
 }
+
+body {
+  font-family: sans-serif;
+}
+
+.pomodoro {
+  height: 100vh;
+  text-align: center;
+
+  &__timer,
+  &__adjustment {
+    margin-bottom:1rem;
+  }
+
+  #time-left {
+    margin-bottom:1rem;
+  }
+}

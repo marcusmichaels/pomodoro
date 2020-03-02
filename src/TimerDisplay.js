@@ -9,13 +9,13 @@ const TimerDisplay = (props) => {
   }
 
   return (
-    <>
+    <div className="pomodoro__timer">
       <div id="timer-label">{props.timerLabel[0].toUpperCase() + props.timerLabel.slice(1)}</div>
       <div id="time-left">{props.timeRemaining === null ? startTime + ":00" : props.timeRemaining}</div>
 
       <button id="start_stop" onClick={props.toggle}>{props.isTicking ? "Stop" : "Start"}</button>
       <button id="reset" onClick={props.reset}>Reset</button>
-    </>
+    </div>
   )
 }
 
