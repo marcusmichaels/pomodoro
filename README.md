@@ -16,4 +16,4 @@ _There are six steps in the original technique:_
 
 ### Boost your productivity
 
-This timer is still being created, but will go live [here](https://marcusmichaels.github.io/pomodoro) when built.
+This timer is still a WIP, but is functionally live [here](https://marcusmichaels.github.io/pomodoro). Next up: Styles.
