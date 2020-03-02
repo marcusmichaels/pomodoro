@@ -1,5 +1,5 @@
 {
-  "homepage": "https://marcusmichaels.com/github.io/pomodoro",
+  "homepage": "https://marcusmichaels.com/github.io/pomodoro/",
   "name": "pomodoro",
   "version": "1.0.0",
   "description": "",
@@ -10,7 +10,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "author": "",
+  "author": "Marcus Michaels",
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.0",
